@@ -1,2 +1,2 @@
-# R-Extra-Credit
-Self Guided R Lessons and Assessments
+# Teacher Tech
+Helping teachers with classroom technology
